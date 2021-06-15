@@ -1,2 +1,2 @@
 # BRACU-CSE350-DIGITAL-ELECTRONICS-AND-PULSE-TECHNIQUES-LAB
-For this corona pandemic our university started to teach us via online courses. In our univarsity CSE undergraduate students have to do some EEE courses. For this online classess as we cannot do hardware lab we have done our hardware labs using asoftware called "Proteus". Here in this repository I uploaded both proteus file and pdf files of my assignments.
+For this corona pandemic our university started to teach us via online courses. In our univarsity CSE undergraduate students have to do some EEE courses. For this online classes as we cannot do hardware lab we have done our hardware labs using a software called "Proteus". Here in this repository I uploaded both proteus file and pdf files of my assignments.
